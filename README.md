@@ -1,0 +1,1 @@
+This repository is a reimplementation of the proposed methods in Borealis AI's "Training a Vision Transformer from scratch in less than 24 hours with 1 GPU", as seen on arXiv (https://arxiv.org/abs/2211.05187#).
